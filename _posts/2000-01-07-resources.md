@@ -1,8 +1,8 @@
 ---
-title:"Resources"
-bg: black
-color: while
-fa-icon: briefcase
+title: "Resources"
+bg: musk
+color: white
+fa-icon: th-briefcase
 ---
 
 # Resources 
