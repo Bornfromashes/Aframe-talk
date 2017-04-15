@@ -32,6 +32,10 @@ colors:
   purple:    '#c869bf'
   orange:    '#fab125'
   turquoise: '#0fbfcf'
+  persian:   '#f7786b'
+  lightblue: '#d5f4e6'
+  goodblue:  '#80ced6'
+  maroon:   '#50394c'
 
 kramdown:
   auto_ids:  false
