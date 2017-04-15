@@ -7,7 +7,7 @@ fa-icon: briefcase
 
 # Resources 
 
-
+links of resources :
 -[A-Frame Official Website](https://aframe.io/)
 -[Offical Presentation kit](https://aframe.io/aframe-presentation-kit/)
 -[A-Frame School](https://aframe.io/aframe-school/)
