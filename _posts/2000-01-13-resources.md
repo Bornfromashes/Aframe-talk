@@ -2,7 +2,7 @@
 title: "Resources"
 bg: purple
 color: white
-fa-icon: th-briefcase
+fa-icon: briefcase
 ---
 
 # Resources 
