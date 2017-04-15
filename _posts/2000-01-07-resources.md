@@ -1,10 +1,8 @@
 ---
-
 title:"Resources"
 bg: black
 color: while
 fa-icon: briefcase
-
 ---
 
 # Resources 
