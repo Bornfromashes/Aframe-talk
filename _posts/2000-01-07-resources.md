@@ -14,3 +14,5 @@ fa-icon: th-briefcase
 - [A-Frame Inspector](https://aframe.io/aframe-inspector/example/)
 - [List of awesome A-Frame sites](https://github.com/aframevr/awesome-aframe)
 - [A-painter](https://aframe.io/a-painter/)
+
+[![forthebadge](http://forthebadge.com/images/badges/contains-technical-debt.svg)](http://forthebadge.com)
