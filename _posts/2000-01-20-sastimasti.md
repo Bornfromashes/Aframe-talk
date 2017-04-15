@@ -3,7 +3,7 @@ title: "Illustration"
 bg: pink
 color: white
 fa-icon: fighter-jet
-—-
+---
 # Sasti Masti
 simple, fun and amusing !
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
