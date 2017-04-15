@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-bg: red
+bg: purple
 color: white
 fa-icon: th-briefcase
 ---
