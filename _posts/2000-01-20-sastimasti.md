@@ -6,7 +6,7 @@ fa-icon: fighter-jet
 ---
 
 # Sasti Masti
-_simple, fun and amusing !._
+**simple, fun and amusing !.**
 
 [![forthebadge](http://forthebadge.com/images/badges/makes-people-smile.svg)](http://forthebadge.com)
 
