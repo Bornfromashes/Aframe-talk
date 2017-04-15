@@ -1,6 +1,6 @@
 ---
 title: "Resources"
-bg: musk
+bg: red
 color: white
 fa-icon: th-briefcase
 ---
