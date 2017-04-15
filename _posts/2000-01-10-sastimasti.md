@@ -1,7 +1,7 @@
 ---
 title: "Illustration"
 bg: pink
-color: white
+color: grey
 fa-icon: fighter-jet
 ---
 
